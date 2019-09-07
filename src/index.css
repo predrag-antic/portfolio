@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("https://cn.opendesktop.org/img/c/1/f/8/2044c87c80e6dbdaedf2393da1212ff5e855.jpg");
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
 }
 
 code {
