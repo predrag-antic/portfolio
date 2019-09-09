@@ -9,7 +9,7 @@
         },
         {
             "id": 2,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f8aa6783829365.5d65c018d5502.png",
+            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/869dbf84655031.5d64dd78567e5.png",
             "type": "Logo Design",
             "info": "Minimalist logo",
             "likes": 0
@@ -72,7 +72,7 @@
         },
         {
             "id": 11,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c2147f69633505.5b883e3a30541.jpg",
+            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/b31a1382900189.5d2d21927c194.png",
             "type": "Logo Design",
             "info": "ESport team logo",
             "likes": 0
@@ -114,16 +114,16 @@
         },
         {
             "id": 17,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/576d8166993901.5b2a5066a431f.png",
-            "type": "Logo Design",
-            "info": "RoboSoccer",
+            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4d110281896705.5d0cebc0142e5.png",
+            "type": "UX/UX",
+            "info": "Chronobank Branding & Website Design",
             "likes": 0
         },
         {
             "id": 18,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4d110281896705.5d0cebc0142e5.png",
-            "type": "UX/UX",
-            "info": "Chronobank Branding & Website Design",
+            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/73c66682900189.5d2c378534e45.png",
+            "type": "Logo Design",
+            "info": "E sport logo",
             "likes": 0
         },
         {
@@ -139,6 +139,17 @@
             "type": "Illustration",
             "info": "Anctient Civilizations",
             "likes": 0
+        }
+    ],
+    "users":[
+        {
+        "id": 1,
+        "name": "Predrag Antic",
+        "email": "predrag@gmail.com",
+        "picture": "https://www.w3schools.com/howto/img_avatar.png",
+        "website": "www.predragantic.com",
+        "title": "Graphic Designer & Programmer",
+        "about": "Hello, i'm 22 yo Full Stack developer, currently working on a react-redux project to catch budget for a final year of Electronic Engineering Faculty."
         }
     ]
 }
