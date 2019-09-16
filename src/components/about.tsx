@@ -2,7 +2,8 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { RootState } from '../store/reducers/root-reducer';
 import { User } from '../models/user';
-import { Button } from 'reactstrap';
+import { Button, NavLink } from 'reactstrap';
+import { Link } from 'react-router-dom';
 
 interface Props{
     user: User | any;
@@ -20,9 +21,12 @@ class About extends React.Component<Props,State> {
         return(
             <div className="container" style={{opacity:0.8}}>
                {
-                    user!=undefined?
+                    user!==undefined?
                     <div className="card py-2 my-5 text-center">
-                        <img src={user.picture} style={{borderRadius:'50%', width:'200px', alignSelf:'center'}} className="my-4"></img>
+                        <img src={user.picture} style={{borderRadius:'50%', width:'200px', alignSelf:'center'}} className="my-4" alt=''></img>
+                        <NavLink tag={Link} to="/edit-profile" style={{position:'absolute',alignSelf:'flex-end'}}>
+                            <button className="btn"><img src={require(`../assets/edit-xx.png`)} style={{width:'25px'}}></img></button>
+                        </NavLink>
                         <h1 style={{fontSize:'50px'}}>{user.name}</h1>
                         <h5 style={{fontStyle:'italic'}}>{user.title}</h5>
                         <hr className="mx-5"/>
@@ -39,12 +43,6 @@ class About extends React.Component<Props,State> {
                                 <h5 className="mb-4">{user.email}</h5>
                             </div>
                         </div>
-                        <hr/>
-                        <div className="row" style={{alignSelf:'center'}}>
-                            <Button className="btn-info mx-1">BTN1</Button>
-                            <Button className="btn-success mx-1">BTN2</Button>
-                            <Button className="btn-warning mx-1">BTN3</Button>
-                        </div>
                     </div>
                     :
                     'none'
@@ -57,7 +55,7 @@ class About extends React.Component<Props,State> {
 function mapStateToProps(state: RootState){
     const users = state.users;
     let user;
-    if( users!= undefined ){
+    if( users!==undefined ){
         if( users.length > 0) {
             user = users[0];
         }

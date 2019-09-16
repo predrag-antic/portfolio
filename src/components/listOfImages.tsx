@@ -1,7 +1,5 @@
 import React from 'react';
 import { Image } from '../models/image';
-import { RootState } from '../store/reducers/root-reducer';
-import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
 import '../style/imageGrid.css';
 
@@ -39,10 +37,6 @@ class ListOfImages extends React.Component<Props,State> {
     }
 }
 
-function mapStateToProps(state: RootState){
-    return {
-        
-    }
-}
 
-export default connect(mapStateToProps,null)(ListOfImages);
+
+export default ListOfImages;

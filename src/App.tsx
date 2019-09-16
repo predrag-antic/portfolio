@@ -15,6 +15,9 @@ import { requestImages } from './store/actions/images-actions';
 import { Provider } from 'react-redux';
 import ImageDetail from './components/imageDetail';
 import { requestUsers } from './store/actions/user-actions';
+import addImage from './components/addImage';
+import { requestComments } from './store/actions/comments-actions';
+import EditProfile from './components/editProfile';
 
 
 const sagaMiddleware = createSagaMiddleware();
@@ -32,7 +35,8 @@ class App extends React.Component {
 
     store.dispatch(requestImages());
     store.dispatch(requestUsers());
-  
+    store.dispatch(requestComments());
+
     return (
       <Provider store={store}>
         <div>
@@ -45,6 +49,8 @@ class App extends React.Component {
               <Route path='/works' component={Works}/>
               <Route path='/contact' component={Contact}/>
               <Route path='/image/:id' component={ImageDetail}/>
+              <Route path='/add-image' component={addImage}/>
+              <Route path='/edit-profile' component={EditProfile}/>
             </Switch>
           </BrowserRouter>
         </div>

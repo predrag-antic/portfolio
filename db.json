@@ -1,155 +1,197 @@
 {
-    "images":[
-        {
-            "id": 1,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/64315584401851.5d5bf658355af.jpg",
-            "type": "Illustration",
-            "info": "Roots",
-            "likes": 0
-        },
-        {
-            "id": 2,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/869dbf84655031.5d64dd78567e5.png",
-            "type": "Logo Design",
-            "info": "Minimalist logo",
-            "likes": 0
-        },
-        {
-            "id": 3,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/fef17a84072925.5d510b7c3efb4.jpg",
-            "type": "Photography",
-            "info": "Project 'Gojira'",
-            "likes": 0
-        },
-        {
-            "id": 4,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/01935e45395687.582f07300b541.jpg",
-            "type": "Illustration",
-            "info": "A bit of happines",
-            "likes": 0
-        },
-        {
-            "id": 5,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/36e7e584559199.5d60597725597.jpg",
-            "type": "Logo Design",
-            "info": "Vodka O",
-            "likes": 0
-        },
-        {
-            "id": 6,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/a4912f84146995.5d53330ba7c60.jpg",
-            "type": "Photography",
-            "info": "Derive Tokyo",
-            "likes": 0
-        },
-        {
-            "id": 7,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5eb21376978231.5c79ab54df14f.png",
-            "type": "UI/UX",
-            "info": "Smart Home App",
-            "likes": 0
-        },
-        {
-            "id": 8,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0f95a784407413.5d5c159a7aa78.jpg",
-            "type": "Photography",
-            "info": "Kevin Love",
-            "likes": 0
-        },
-        {
-            "id": 9,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2b0e4282295801.5d19a3527cd9e.jpg",
-            "type": "UI/UX",
-            "info": "Vingroup: Vinpearl UI/UX Design",
-            "likes": 0
-        },
-        {
-            "id": 10,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e5a7b884402169.5d5bf82353779.jpg",
-            "type": "Illustration",
-            "info": "Mirror",
-            "likes": 0
-        },
-        {
-            "id": 11,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/b31a1382900189.5d2d21927c194.png",
-            "type": "Logo Design",
-            "info": "ESport team logo",
-            "likes": 0
-        },
-        {
-            "id": 12,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2cbec369525257.5b89c147cc488.png",
-            "type": "UI/UX",
-            "info": "Streamlog Moblie App",
-            "likes": 0
-        },
-        {
-            "id": 13,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d4312d84402625.5d5bfa915798e.jpg",
-            "type": "Illustration",
-            "info": "Abyss",
-            "likes": 0
-        },
-        {
-            "id": 14,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/77f7be84162663.5d53cb819c6e5.jpg",
-            "type": "Photography",
-            "info": "Midnatsol tranquility",
-            "likes": 0
-        },
-        {
-            "id": 15,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c26c1e77578081.5c94e5f31a474.png",
-            "type": "UI/UX",
-            "info": "Greendeeds - Recycling App",
-            "likes": 0
-        },
-        {
-            "id": 16,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4f14e870074431.5b9764849597e.jpg",
-            "type": "Illustration",
-            "info": "Wall-E",
-            "likes": 0
-        },
-        {
-            "id": 17,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4d110281896705.5d0cebc0142e5.png",
-            "type": "UX/UX",
-            "info": "Chronobank Branding & Website Design",
-            "likes": 0
-        },
-        {
-            "id": 18,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/73c66682900189.5d2c378534e45.png",
-            "type": "Logo Design",
-            "info": "E sport logo",
-            "likes": 0
-        },
-        {
-            "id": 19,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1e603983945433.5d4c01ca8e5ea.jpg",
-            "type": "Photography",
-            "info": "Somewhere in Germany",
-            "likes": 0
-        },
-        {
-            "id": 20,
-            "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/66865653625867.593ac7b0ebebc.jpg",
-            "type": "Illustration",
-            "info": "Anctient Civilizations",
-            "likes": 0
-        }
-    ],
-    "users":[
-        {
-        "id": 1,
-        "name": "Predrag Antic",
-        "email": "predrag@gmail.com",
-        "picture": "https://www.w3schools.com/howto/img_avatar.png",
-        "website": "www.predragantic.com",
-        "title": "Graphic Designer & Programmer",
-        "about": "Hello, i'm 22 yo Full Stack developer, currently working on a react-redux project to catch budget for a final year of Electronic Engineering Faculty."
-        }
-    ]
+  "images": [
+    {
+      "id": 1,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/64315584401851.5d5bf658355af.jpg",
+      "type": "Illustration",
+      "info": "Roots",
+      "likes": 19
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/869dbf84655031.5d64dd78567e5.png",
+      "type": "Logo Design",
+      "info": "Minimalist logo",
+      "likes": 10
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/fef17a84072925.5d510b7c3efb4.jpg",
+      "type": "Photography",
+      "info": "Project 'Gojira'",
+      "likes": 18
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/01935e45395687.582f07300b541.jpg",
+      "type": "Illustration",
+      "info": "A bit of happines",
+      "likes": 4
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/36e7e584559199.5d60597725597.jpg",
+      "type": "Logo Design",
+      "info": "Vodka O",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/a4912f84146995.5d53330ba7c60.jpg",
+      "type": "Photography",
+      "info": "Derive Tokyo",
+      "likes": 4
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/5eb21376978231.5c79ab54df14f.png",
+      "type": "UI/UX",
+      "info": "Smart Home App",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0f95a784407413.5d5c159a7aa78.jpg",
+      "type": "Photography",
+      "info": "Kevin Love",
+      "likes": 2
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2b0e4282295801.5d19a3527cd9e.jpg",
+      "type": "UI/UX",
+      "info": "Vingroup: Vinpearl UI/UX Design",
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e5a7b884402169.5d5bf82353779.jpg",
+      "type": "Illustration",
+      "info": "Mirror",
+      "likes": 0
+    },
+    {
+      "id": 11,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/b31a1382900189.5d2d21927c194.png",
+      "type": "Logo Design",
+      "info": "ESport team logo",
+      "likes": 0
+    },
+    {
+      "id": 12,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/2cbec369525257.5b89c147cc488.png",
+      "type": "UI/UX",
+      "info": "Streamlog Moblie App",
+      "likes": 0
+    },
+    {
+      "id": 13,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d4312d84402625.5d5bfa915798e.jpg",
+      "type": "Illustration",
+      "info": "Abyss",
+      "likes": 0
+    },
+    {
+      "id": 14,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/77f7be84162663.5d53cb819c6e5.jpg",
+      "type": "Photography",
+      "info": "Midnatsol tranquility",
+      "likes": 0
+    },
+    {
+      "id": 15,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/c26c1e77578081.5c94e5f31a474.png",
+      "type": "UI/UX",
+      "info": "Greendeeds - Recycling App",
+      "likes": 0
+    },
+    {
+      "id": 16,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4f14e870074431.5b9764849597e.jpg",
+      "type": "Illustration",
+      "info": "Wall-E",
+      "likes": 1
+    },
+    {
+      "id": 17,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/4d110281896705.5d0cebc0142e5.png",
+      "type": "UX/UX",
+      "info": "Chronobank Branding & Website Design",
+      "likes": 0
+    },
+    {
+      "id": 18,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/73c66682900189.5d2c378534e45.png",
+      "type": "Logo Design",
+      "info": "E sport logo",
+      "likes": 0
+    },
+    {
+      "id": 19,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1e603983945433.5d4c01ca8e5ea.jpg",
+      "type": "Photography",
+      "info": "Somewhere in Germany",
+      "likes": 0
+    },
+    {
+      "id": 20,
+      "imgUrl": "https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/66865653625867.593ac7b0ebebc.jpg",
+      "type": "Illustration",
+      "info": "Anctient Civilizations",
+      "likes": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Predrag Antic",
+      "email": "pedja@gmail.com",
+      "picture": "https://www.w3schools.com/howto/img_avatar.png",
+      "website": "www.predrag-antic.com",
+      "title": "Programmer & Graphic Designer",
+      "about": "Hello, i'm 22 yo Full Stack developer, currently working on a react-redux-saga project to catch budget for a final year of Electronic Engineering Faculty."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "imageId": 1,
+      "name": "Predrag",
+      "email": "pedja@gmail.com",
+      "text": "Wow. Great work!",
+      "date": "9/12/2019, 8:55:51 PM"
+    },
+    {
+      "id": 2,
+      "imageId": 1,
+      "email": "m@gmail.com",
+      "name": "Milos",
+      "text": "Amazingg!!",
+      "date": "9/12/2019, 9:39:50 PM"
+    },
+    {
+      "id": 3,
+      "imageId": 1,
+      "email": "l@gmail.com",
+      "name": "Lazar A.",
+      "text": "Good job pal, keep crashing!",
+      "date": "9/12/2019, 9:45:55 PM"
+    },
+    {
+      "id": 4,
+      "imageId": 1,
+      "email": "milica@gmail.com",
+      "name": "Milica",
+      "text": "Sooo beautifulll!",
+      "date": "9/12/2019, 11:39:08 PM"
+    },
+    {
+      "id": 5,
+      "imageId": 16,
+      "email": "pa@gmail.com",
+      "name": "Predrag",
+      "text": "Soo cute! Amazing work!",
+      "date": "9/14/2019, 8:37:40 PM"
+    }
+  ]
 }

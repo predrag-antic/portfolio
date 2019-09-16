@@ -16,19 +16,19 @@ class NavBar extends React.Component{
             <div className="mx-5 mt-4">
                 <Navbar color="faded" light expand="md">
                 <NavbarBrand tag={Link} to="/home" style={{color:'white'}}>
-                    <img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" alt="" style={{width:'40px'}}></img>
+                    <img src={require(`../assets/redux-logo-black-and-white.png`)} alt="" style={{width:'40px'}}></img>
                 </NavbarBrand>
                     <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <NavLink tag={Link} to="/works" style={{fontSize:"24px",color:'white'}} className="mr-2 navHover">Works</NavLink>
+                        <NavLink tag={Link} to="/works" style={{fontSize:"24px",color:'white',fontFamily:"BEBAS"}} className="mr-3 navHover">Works</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink tag={Link} to="/about" style={{fontSize:"24px",color:'white'}} className="navHover">About</NavLink>
+                        <NavLink tag={Link} to="/about" style={{fontSize:"24px",color:'white',fontFamily:"BEBAS"}} className="navHover">About</NavLink>
                     </NavItem>
                     </Nav>
                     <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <NavLink tag={Link} to="/contact"style={{fontSize:"18px",color:'white'}} className="navHover">Contact</NavLink>
+                        <NavLink tag={Link} to="/contact"style={{fontSize:"18px",color:'white',fontFamily:"BEBAS"}} className="navHover">Contact</NavLink>
                     </NavItem>
                     </Nav>
                 </Navbar>
